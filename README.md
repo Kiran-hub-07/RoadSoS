@@ -130,7 +130,7 @@ This provides a foundation for making the web application behave more like an in
 # 🧠 How RoadSoS Works
 
 The basic workflow can be represented as:
-<img width="1024" height="1536" alt="ChatGPT Image Sep 18, 2026, 08_44_06 PM" src="https://github.com/user-attachments/assets/db488566-d6cb-4f9d-9d0b-a57e6e7f35c3" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 18, 2026, 08_44_06 PM" src="https://github.com/user-attachments/assets/db488566-d6cb-4f9d-9d0b-a57e6e7f35c3" width="200"/>
 
 
 ```text
